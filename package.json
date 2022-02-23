@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohammed-atif/firebase-publish-react.git"
+    "url": "git+https://github.com/alanschwarz/firebase-publish-react.git"
   },
   "keywords": [
     "firebase",
@@ -20,9 +20,9 @@
   "author": "Mohammed Atif",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohammed-atif/firebase-publish-react/issues"
+    "url": "https://github.com/alanschwarz/firebase-publish-react/issues"
   },
-  "homepage": "https://github.com/mohammed-atif/firebase-publish-react#readme",
+  "homepage": "https://github.com/alanschwarz/firebase-publish-react#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.4"
