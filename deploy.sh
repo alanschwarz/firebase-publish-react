@@ -13,7 +13,9 @@ fi
 if [ $BUILD_APPLICATION == "true" ]
 then
     echo "Buillding the application"
+    pwd || echo
     cd client
+    pwd || echo
     npm i
     npm run build
 else
